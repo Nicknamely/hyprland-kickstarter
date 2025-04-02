@@ -47,6 +47,7 @@ A modular setup allows users to pick and choose which features to enable, making
 - Supply non-executable scripts to assist with initial ricing (e.g., screenshotting with grim and slurp).
 - Offer scripts for quick setup.
 - Include troubleshooting tips and common fixes.
+- Provide comprehensive comments to help with configuration (partially explaining stuff) but encourage reading the wiki.
 
 ## Contributing
 Feel free to open issues, suggest improvements, or submit pull requests.
