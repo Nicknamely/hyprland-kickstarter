@@ -42,6 +42,11 @@ A modular setup allows users to pick and choose which features to enable, making
 
 ## Getting Started
 
+- Clone the repository to your local machine, no dependency requiered
+```bash
+git clone https://github.com/Nicknamely/hyprland-kickstarter.git
+```
+
 ## Future Plans
 - Enhance the default configuration while maintaining minimalism.
 - Supply non-executable scripts to assist with initial ricing (e.g., screenshotting with grim and slurp).
